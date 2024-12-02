@@ -5,7 +5,7 @@
   "license": "GPL-3.0",
   "minimum-stability": "stable",
   "require": {
-    "friendsofoxid/oxideshop-metapackage-ce": "v7.1.0"
+    "friendsofoxid/oxideshop-metapackage-ce": "v7.1.1"
   },
   "autoload-dev": {
     "psr-4": {
