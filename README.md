@@ -9,4 +9,8 @@ composer create-project friendsofoxid/oxideshop-project oxid.mydomain.com --no-d
 
 More information how to setup the shop:
 
-  - https://docs.oxid-esales.com/developer/en/7.0/getting_started/installation/eshop_installation.html
+  - https://docs.oxid-esales.com/developer/en/7.1/getting_started/installation/eshop_installation.html
+
+## Important note
+
+Smarty isn't supported by OXID eShop from 7.1, use is at your own risk.
